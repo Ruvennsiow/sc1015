@@ -1,24 +1,37 @@
-#SC1015
-covid death prediction
+# SC1015 GROUP 02 PREDICTING COVID DEATHS
 
-The data for this project used is in the following link: https://github.com/owid/covid-19-data/tree/master/public/data/
+# About
+This is a Mini-Project for sc1015 (Introduction to Data Science and Artificial Intelligence) which forcuses on predicting the number of new deaths tomorrow given the data of covid-19 today.
 
-we will be predicting the number of new deaths tomorrow given the data of covid-19 today.
+https://ourworldindata.org/coronavirus-source-data#licence
 
-About
-This is a Mini-Project for sc1015 (Introduction to Data Science and Artificial Intelligence)
+# Contribution
+
+- Ruvenn 
+- Jun Koon 
+- Kenze 
 
 # Problem Definition
-How can we predict future covid deaths in Asia?
+- How can we predict future covid deaths in Asia?
+- How do past covid variables affect future covid statistics in Asia?
 
 # Models Used
-multi linear regression
+- Multi linear regression
+- Data cleaning & visualization
 
-# Conclusion
-#### DOES ML SOLVE OUR OBJECTIVE?
-Yes, to a large extent.
-There are many variables not accounted for in the real world context, such as fast developing medication, which will have a strong correlation to the new number of deaths.
-To be able predict the new number of deaths with a ~46% accuracy is valid.
+# What we learned/Conclusion
+- Variables that were perceived to have high impact, resulted in unsatisfactory results
+- Regression equations between each independent variable and the dependent variable
+- Predictions are highly dependent on the current spreading regime
+- Different additional variables would be beneficial
 
-Predictions are highly dependent on the current spreading regime.
-Different additional variables would be beneficial
+# Reference
+
+https://covid19.who.int/
+
+https://www.kaggle.com/datasets/dhruvildave/covid19-deaths-dataset/code
+
+https://github.com/owid/covid-19-data/tree/master/public/data/internal
+
+https://github.com/owid/covid-19-data/tree/master/public/data/
+
