@@ -1,4 +1,4 @@
-# sc1015
+#SC1015
 covid death prediction
 
 The data for this project used is in the following link: https://github.com/owid/covid-19-data/tree/master/public/data/
