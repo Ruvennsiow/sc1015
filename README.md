@@ -7,9 +7,9 @@ https://ourworldindata.org/coronavirus-source-data#licence
 
 # Contribution
 
-- Ruvenn 
-- Jun Koon 
-- Kenze 
+- Ruvenn @data visualisation
+- Jun Koon @multi linear regression and data cleaning
+- Kenze @slides and presentation
 
 # Problem Definition
 - How can we predict future covid deaths in Asia?
