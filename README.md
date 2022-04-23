@@ -7,9 +7,9 @@ https://ourworldindata.org/coronavirus-source-data#licence
 
 # Contribution
 
-- Ruvenn @data visualisation
-- Jun Koon @multi linear regression and data cleaning
-- Kenze @slides and presentation
+- Ruvenn - data visualisation
+- Jun Koon - multi linear regression and data cleaning
+- Kenze - slides and presentation
 
 # Problem Definition
 - How can we predict future covid deaths in Asia?
@@ -34,4 +34,6 @@ https://www.kaggle.com/datasets/dhruvildave/covid19-deaths-dataset/code
 https://github.com/owid/covid-19-data/tree/master/public/data/internal
 
 https://github.com/owid/covid-19-data/tree/master/public/data/
+
+https://medium.com/machine-learning-with-python/multiple-linear-regression-implementation-in-python-2de9b303fc0c
 
