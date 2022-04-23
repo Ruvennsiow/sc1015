@@ -15,7 +15,7 @@ How can we predict future covid deaths in Asia?
 multi linear regression
 
 # Conclusion
-## DOES ML SOLVE OUR OBJECTIVE?
+#### DOES ML SOLVE OUR OBJECTIVE?
 Yes, to a large extent.
 There are many variables not accounted for in the real world context, such as fast developing medication, which will have a strong correlation to the new number of deaths.
 To be able predict the new number of deaths with a ~46% accuracy is valid.
